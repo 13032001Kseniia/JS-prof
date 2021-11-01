@@ -1,0 +1,17 @@
+.buy-btn{
+    background-color:deeppink;
+}
+.btn-cart{
+    background-color:gold;
+}
+header{
+    background-color: greenyellow;
+    height: 30%;
+}
+.products{
+    display: flex;
+    justify-content:space-around;
+}
+img{
+    width:20%;
+}
